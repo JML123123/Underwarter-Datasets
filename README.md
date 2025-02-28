@@ -9,3 +9,6 @@ You can access the dataset we used for training and the pretrained model weights
 
  # DUO
  https://pan.baidu.com/s/11hjIl8ScUuajdfPlQcv2ww Extract code: DDUO 
+
+# weight（The optimized model weights）
+ https://pan.baidu.com/s/1P5rtmd3sNQR8wGrufArUbg Extract code: 2025 
